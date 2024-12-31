@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+C should be 0xxxxxxxxx, but is instead 0x0
+C should be 0xxxxxxxxx, but is instead 0x1
+$finish called at time : 120 ns : File "C:/Users/alexp/Documents/GitHub/Vivado Projects/RISC/ALU/ALU.srcs/sim_1/new/ALU_tb.sv" Line 87
+INFO: xsimkernel Simulation Memory Usage: 18496 KB (Peak: 18496 KB), Simulation CPU Usage: 16874 ms

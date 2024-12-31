@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/alexp/Documents/GitHub/Vivado Projects/RISC/ALU/ALU.srcs/sim_1/new/ALU_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_tb
+WARNING: [VRFC 10-3248] data object 'RS1' is already declared [C:/Users/alexp/Documents/GitHub/Vivado Projects/RISC/ALU/ALU.srcs/sim_1/new/ALU_tb.sv:34]
+WARNING: [VRFC 10-9364] second declaration of 'RS1' is ignored [C:/Users/alexp/Documents/GitHub/Vivado Projects/RISC/ALU/ALU.srcs/sim_1/new/ALU_tb.sv:34]
+WARNING: [VRFC 10-3248] data object 'RS2' is already declared [C:/Users/alexp/Documents/GitHub/Vivado Projects/RISC/ALU/ALU.srcs/sim_1/new/ALU_tb.sv:35]
+WARNING: [VRFC 10-9364] second declaration of 'RS2' is ignored [C:/Users/alexp/Documents/GitHub/Vivado Projects/RISC/ALU/ALU.srcs/sim_1/new/ALU_tb.sv:35]
