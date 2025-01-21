@@ -47,15 +47,6 @@ module ALU #(
                 3'b101 : RD_t <= (funct7 == 7'b0100000) ? RS1 >>> shamt : RS1 >> shamt; 
                 default RD_t <= RD_t; 
             endcase
-            
-        //Load Type WIP
-        end else if(opcode == 7'b0000011) begin 
-            RD_t <= RD_t;
-
-        end else begin 
-            RD_t <= 0;
-        end    
-    end
     
     assign RD = RD_t;
 endmodule
